@@ -1,0 +1,76 @@
+
+.bd-example img{
+    height: 400px;
+}
+
+header{
+    background-color: rgb(190, 217, 224);
+    padding: 10px 0;
+}
+header img{
+    width: 50px;
+}
+header ul{}
+header ul li{
+    display: inline-block;
+    padding: 0 5px;
+    margin-top:10px;
+}
+header ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: gray;
+    transition: .4s
+}
+header ul{
+margin-left: -73px;
+
+
+}
+
+header ul li a{
+
+}
+
+
+header ul li:nth-child(1){
+    color: black;
+    
+}
+
+
+header ul li a:hover{
+    color: black;
+}
+
+
+
+
+/* .carousel-inner img{
+    height: 400px;
+}
+ */
+
+
+
+
+
+
+
+
+.banner-saction img{
+    width: 500px;
+    
+}
+.footer{
+    color: #fff;
+    
+
+    
+}
+.footer h6{
+    margin-top: -25px;
+}
+.breadcrumb{
+    background-color: rgb(230, 236, 238);
+}
